@@ -58,7 +58,7 @@ For full lifecycle support, check out → [MLOps Services](https://www.azilen.co
 ## 📁 Folder & File Structure (Recommended)
 
 checklists/
-├── data-prep.md Data preparation and ingestion
+├── data-prep.md
 ├── model-training.md ✅ You are here
 ├── model-deployment.md
 ├── monitoring.md
