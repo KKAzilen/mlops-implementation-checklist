@@ -40,6 +40,13 @@ This checklist helps you prepare your data pipelines for robust and repeatable m
 
 ---
 
+## Need Help With Data Readiness?
+
+Explore how Azilen helps organizations streamline their data pipelines and enable MLOps success. 
+Check out our → [MLOps Services](https://www.azilen.com/mlops-services/)
+
+---
+
 ## Folder & File Structure (Recommended)
 
 checklists/
@@ -47,10 +54,3 @@ checklists/
 ├── model-training.md
 ├── model-deployment.md
 ├── monitoring.md
-
----
-
-## Need Help With Data Readiness?
-
-Explore how Azilen helps organizations streamline their data pipelines and enable MLOps success.  
-→ [MLOps Services](https://www.azilen.com/mlops-services/)
