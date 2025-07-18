@@ -52,6 +52,6 @@ Check out our → [MLOps Services](https://www.azilen.com/mlops-services/)
 | File | Description |
 |------|-------------|
 | [`data-prep.md`](data-preparation.md) ✅ You are here | Data pipeline and feature store readiness |
-| [`model-training.md`](model-training.md) | Training reproducibility, versioning |
+| [`model-training-and-versioning.md`](model-training-and-versioning.md) | Training reproducibility, versioning |
 | [`model-deployment.md`](model-deployment.md) | CI/CD, infra-as-code, containerization |
-| [`monitoring.md`](monitoring.md) | Drift detection, performance monitoring |
+| [`model-monitoring-and-feedback-loops.md`](model-monitoring-and-feedback-loops.md) | Drift detection, performance monitoring |
