@@ -55,3 +55,13 @@ This checklist helps you deploy models in a way that’s automated, testable, an
 Want to streamline model deployment for scale, speed, and compliance?
 
 Explore Azilen's [MLOps Services](https://www.azilen.com/mlops-services/)
+
+---
+
+## 📁 Folder & File Structure (Recommended)
+
+checklists/
+├── data-prep.md
+├── model-training.md
+├── model-deployment.md ✅ You are here
+├── monitoring.md
