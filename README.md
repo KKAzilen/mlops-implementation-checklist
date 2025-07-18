@@ -33,10 +33,10 @@ Each checklist is broken down into actionable, easy-to-track steps.
 
 | File | Description |
 |------|-------------|
-| `/checklists/data-prep.md` | Data sourcing, cleaning, feature store setup |
-| `/checklists/model-training.md` | Reproducibility, config tracking, versioning |
-| `/checklists/model-deployment.md` | CI/CD, containerization, testing, automation |
-| `/checklists/monitoring.md` | Drift, alerts, continuous evaluation |
+| [Data Preparation](checklists/data-preparation.md) | Data sourcing, cleaning, feature store setup |
+| [Model Training & Versioning](checklists/model-training-and-versioning.md) | Reproducibility, config tracking, versioning |
+| [Model Deployment](checklists/model-deployment.md) | CI/CD, containerization, testing, automation |
+| [Model Monitoring & Feedback Loops](checklists/model-monitoring-and-feedback-loops.md) | Drift, alerts, continuous evaluation |
 
 > This checklist is continuously updated with practical tools, code references, and industry-ready workflows.
 
