@@ -49,8 +49,9 @@ Check out our → [MLOps Services](https://www.azilen.com/mlops-services/)
 
 ## Folder & File Structure (Recommended)
 
-checklists/
-├── data-prep.md ✅ You are here
-├── model-training.md
-├── model-deployment.md
-├── monitoring.md
+| File | Description |
+|------|-------------|
+| [`data-prep.md`](data-preparation.md) ✅ You are here | Data pipeline and feature store readiness |
+| [`model-training.md`](model-training.md) | Training reproducibility, versioning |
+| [`model-deployment.md`](model-deployment.md) | CI/CD, infra-as-code, containerization |
+| [`monitoring.md`](monitoring.md) | Drift detection, performance monitoring |
