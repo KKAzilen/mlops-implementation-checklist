@@ -48,7 +48,7 @@ Looking to go beyond checklists?
 
 Explore how we help teams build **real-world MLOps solutions** from design to deployment:
 
-🔗 [Azilen’s MLOps Implementation Services](https://www.azilen.com/mlops-services/)
+🔗 [MLOps Services](https://www.azilen.com/mlops-services/)
 
 ---
 
