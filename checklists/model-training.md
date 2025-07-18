@@ -54,3 +54,11 @@ Use this checklist to ensure your training workflows are reproducible, auditable
 Model training should be treated as **code + data + config** — all version-controlled and traceable.
 
 For full lifecycle support, check out → [MLOps Services](https://www.azilen.com/mlops-services/)
+
+## 📁 Folder & File Structure (Recommended)
+
+checklists/
+├── data-prep.md Data preparation and ingestion
+├── model-training.md ✅ You are here
+├── model-deployment.md
+├── monitoring.md
